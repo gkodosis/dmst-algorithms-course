@@ -1,1 +1,1 @@
-# dmst-algorithms-course
+# gkodosis-algo-assignments
